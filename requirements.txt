@@ -1,0 +1,7 @@
+keyboard == 0.13.5
+pillow == 10.4.0
+pywin32 == 311
+ttkthemes == 3.2.2
+imagehash==4.3.1
+numpy>=1.24
+pyperclip>=1.8
